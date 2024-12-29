@@ -36,7 +36,7 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "final logo.jpeg"
+      filename: "final_logo_color.svg"
     button:
       enable: true
       text: "Apply Now"
