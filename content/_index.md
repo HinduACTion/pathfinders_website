@@ -13,17 +13,17 @@ sections:
       title: Pathfinders Congressional Internship and Leadership Program
       text: 🧱 From anywhere in USA!  🧱
       primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        text: Apply Now
+        url: https://docs.google.com/forms/d/e/1FAIpQLScCfZdgv3LlZMllhuZBjm7lM0TCObyZYAFny9S90d0StL0AOw/viewform?usp=header/
         icon: rocket-launch
       secondary_action:
-        text: Read the docs
+        text: Read the requirements
         url: https://docs.hugoblox.com
       announcement:
-        text: "Announcing the release of version 1."
-        link:
-          text: "Read more"
-          url: "/blog/"
+        text: "Enrollment Open"
+        # link:
+        #   text: "Read more"
+        #   url: "/blog/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
