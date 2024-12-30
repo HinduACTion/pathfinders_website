@@ -44,10 +44,10 @@ sections:
           description: |
             Interns from around the country  
             serve in the US Congress
-        # - statistic: "10k+"
-        #   description: |
-        #     GitHub stars  
-        #     since 2016
+        - statistic: "$24.3M"
+          description: |
+            House budget for paid  
+            interns as of 2023
         - statistic: "Summer/Fall"
           description: |
             Internships run throughout the fall,  
@@ -130,6 +130,44 @@ sections:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
         padding: ["6rem", 0, 0, 0]
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle: ''
+      text: ''
+      # Contact details - edit or remove options as needed
+      email: hinduaction@gmail.com
+      phone: (202) 838-6655
+      # address:
+      #   street: 450 Serra Mall
+      #   city: Stanford
+      #   region: CA
+      #   postcode: '94305'
+      #   country: United States
+      #   country_code: US
+      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      # office_hours:
+      #   - 'Monday 10:00 to 13:00'
+      #   - 'Wednesday 09:00 to 10:00'
+      # contact_links:
+      #   - icon: twitter
+      #     icon_pack: fab
+      #     name: DM Me
+      #     link: 'https://twitter.com/Twitter'
+      #   - icon: skype
+      #     icon_pack: fab
+      #     name: Skype Me
+      #     link: 'skype:echo123?call'
+      #   - icon: video
+      #     icon_pack: fas
+      #     name: Zoom Me
+      #     link: 'https://zoom.com'
+      # Automatically link email and phone or display them just as text?
+      autolink: true
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
   - block: cta-card
     content:
       title: Shape your future
