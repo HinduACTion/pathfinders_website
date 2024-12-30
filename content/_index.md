@@ -130,14 +130,15 @@ sections:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
         padding: ["6rem", 0, 0, 0]
-  - block: contact
-    content:
-      title: Contact
-      subtitle: ''
-      text: ''
-      # Contact details - edit or remove options as needed
-      email: hinduaction@gmail.com
-      phone: (202) 838-6655
+  # - block: contact
+  #   id : contact
+  #   content:
+  #     title: Contact
+  #     subtitle: ''
+  #     text: ''
+  #     # Contact details - edit or remove options as needed
+  #     email: hinduaction@gmail.com
+  #     phone: (202) 838-6655
       # address:
       #   street: 450 Serra Mall
       #   city: Stanford
@@ -163,10 +164,10 @@ sections:
       #     name: Zoom Me
       #     link: 'https://zoom.com'
       # Automatically link email and phone or display them just as text?
-      autolink: true
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+    #   autolink: true
+    # design:
+    #   # Choose how many columns the section has. Valid values: '1' or '2'.
+    #   columns: '1'
   - block: cta-card
     content:
       title: Shape your future
