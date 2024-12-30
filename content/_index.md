@@ -118,22 +118,22 @@ sections:
       title: ""
       text: ""
       items:
-        - name: "Hugo Smith"
-          role: "Marketing Executive at X"
+        - name: "Utsav Chakrabarti"
+          role: "Executive Director at HINDUACTion"
           # Upload image to `assets/media/` and reference the filename here
           image: "testimonial-1.jpg"
-          text: "Awesome, so easy to use and saved me so much work with the swappable pre-designed sections!"
+          text: "I am honored to help shape and empower the next generation of leaders in our community."
     design:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
         padding: ["6rem", 0, 0, 0]
   - block: cta-card
     content:
-      title: Build your future-proof website
-      text: As easy as 1, 2, 3!
+      title: Shape your future
+      text: Take the First Step Today—Your Future Awaits!
       button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        text: Apply Now
+        url: https://docs.google.com/forms/d/e/1FAIpQLScCfZdgv3LlZMllhuZBjm7lM0TCObyZYAFny9S90d0StL0AOw/viewform?usp=header/
     design:
       card:
         # Card background color (CSS class)
