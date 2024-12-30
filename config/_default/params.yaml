@@ -39,8 +39,8 @@ header:
       filename: "final logo.jpeg"
     button:
       enable: true
-      text: "Apply Now"
-      url: "https://docs.google.com/forms/d/e/1FAIpQLScCfZdgv3LlZMllhuZBjm7lM0TCObyZYAFny9S90d0StL0AOw/viewform?usp=header/"
+      text: "Donate"
+      url: "https://www.hindu-action.org/donate/"
     show_search: true
     show_theme_chooser: false
 

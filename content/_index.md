@@ -16,9 +16,9 @@ sections:
         text: Apply Now
         url: https://docs.google.com/forms/d/e/1FAIpQLScCfZdgv3LlZMllhuZBjm7lM0TCObyZYAFny9S90d0StL0AOw/viewform?usp=header/
         icon: rocket-launch
-      secondary_action:
-        text: Read the requirements
-        url: https://docs.hugoblox.com
+      # secondary_action:
+      #   text: Read the requirements
+      #   url: https://docs.hugoblox.com
       announcement:
         text: "Enrollment Open"
         # link:
