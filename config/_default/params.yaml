@@ -34,9 +34,9 @@ header:
     align: "center"
     fixed_to_top: true
     logo:
-      text: ""
+      text: "Pathfinders"
       # Logo filename in `assets/media/` folder
-      filename: "final_logo_color.svg"
+      filename: "final logo.jpeg"
     button:
       enable: true
       text: "Apply Now"
