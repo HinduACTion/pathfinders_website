@@ -48,10 +48,10 @@ sections:
           description: |
             House budget for paid  
             interns as of 2023
-        - statistic: "All year"
+        - statistic: "50%"
           description: |
-            Internships run throughout the fall,  
-            spring or summer semesters
+            More than half full-time Congressional  
+            staff are former interns.
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
