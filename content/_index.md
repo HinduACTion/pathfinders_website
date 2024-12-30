@@ -94,7 +94,7 @@ sections:
             - "PATHFINDERS American Hindu State Internship: Open to high school students"
         #     - "No JavaScript knowledge required"
         #   # Upload image to `assets/media/` and reference the filename here
-        #   image: build-website.png
+          image: build-website.png
         #   button:
         #     text: Get Started
         #     url: https://hugoblox.com/templates/
