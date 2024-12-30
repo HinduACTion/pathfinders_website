@@ -40,18 +40,18 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "1M+"
+        - statistic: "40k"
           description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
+            Interns from around the country  
+            serve in the US Congress
+        # - statistic: "10k+"
+        #   description: |
+        #     GitHub stars  
+        #     since 2016
+        - statistic: "Summer/Fall"
           description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
-          description: |
-            Discord community  
-            for support
+            Internships run throughout the fall,  
+            spring or summer semesters
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
