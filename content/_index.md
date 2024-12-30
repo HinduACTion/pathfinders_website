@@ -48,7 +48,7 @@ sections:
           description: |
             House budget for paid  
             interns as of 2023
-        - statistic: "Summer/Fall"
+        - statistic: "All year"
           description: |
             Internships run throughout the fall,  
             spring or summer semesters
