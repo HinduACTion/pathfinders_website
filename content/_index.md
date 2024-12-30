@@ -66,19 +66,19 @@ sections:
       items:
         - name: Gain experience
           icon: star
-          description: An immersive internship experience in state offices and connecting with high-level policymakers and insiders.
+          description: An immersive internship in state offices for hands-on experience and connecting with high-level policymakers and insiders.
         - name: Workshop
           icon: magnifying-glass
           description: Comprehensive program orientation as well as professional development workshops on leadership and policy.
-        - name: Stipend
-          icon: sparkles
-          description: Competitive stipend provided!
         - name: Networking
           icon: bolt
           description: Exclusive networking opportunities and access to mentorship throughout the program.
         - name: Placement support
           icon: rectangle-group
           description: Ongoing support for job or internship placements after program completion.
+        - name: Stipend
+          icon: sparkles
+          description: Competitive stipend provided!
         # - name: Swappable Blocks
         #   icon: rectangle-group
         #   description: Build your pages with blocks - no coding required!
