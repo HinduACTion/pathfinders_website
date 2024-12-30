@@ -131,7 +131,6 @@ sections:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
         padding: ["6rem", 0, 0, 0]
   - block: contact
-    id: contact
     content:
       title: Contact
       subtitle: ''
